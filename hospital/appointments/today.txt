@@ -1,0 +1,11 @@
+PatientID, Name, Doctor
+1, Aman, Dr. Raman
+2, Abhi, Dr. Sharma
+3, Kavi, Dr. Sharma
+4, Ravi, Dr. Sharma
+5, Raj, Dr. Raman
+6, Rajat, Dr. Sunil A
+7, Raja, Dr. Sunil B
+8, Rajnigam, Dr. Sunil C
+9, Rajnath, Dr. Sunil
+10, Rajkumar, Dr. Sunil
